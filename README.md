@@ -3,3 +3,5 @@ Conditional Analysis of Multiple Traits Based on Marginal GWAS Summary Statistic
 Descriptions are in the R file.
 
 jointsum_0.13.zip/tar.gz: the updated package with revised functions, including the SMI method.
+
+Function names: jointsum, SMI.
