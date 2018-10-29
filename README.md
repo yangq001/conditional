@@ -1,7 +1,10 @@
-Conditional Analysis of Multiple Traits Based on Marginal GWAS Summary Statistics
+jointsum_0.19.tar.gz
 
-jointsum_0.13.zip/tar.gz: the updated package with revised functions, including the SMI method.
+Conditional Analysis of Multiple Traits Based on Marginal GWAS Summary Statistics (JointSum)
 
-Function names: JointSum, SMI.
+Pleiotropy Test Based on Conditional Analysis (Plei, PleiSum)
+
+Allelic Heterogeneity Test with Intersection-Union Test (conAH, conAHseq, conAHseq2)
+
 
 ***Note: "library(MASS)" is required before using the functions.
