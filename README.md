@@ -1,4 +1,4 @@
-jointsum_0.5.tar.gz 
+jointsum_0.51.tar.gz 
 
 Conditional Analysis of Multiple Traits Based on Marginal GWAS Summary Statistics (JointSum)
 
